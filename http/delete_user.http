@@ -1,0 +1,1 @@
+DELETE http://localhost:3333/api/v1/users/delete/2 HTTP/1.1
